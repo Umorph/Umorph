@@ -1,17 +1,17 @@
 ### Hi there, I'm Vladislav - aka [UnderMorph][website] 👋
 
-## I'm a Frontend & Python developer, Motion Designer and junior Cyber Security Specialist
+## I'm a Frontend & Python developer
 
-- 🔭 I’m currently working on a [Chipper Ben][current-project] Project!
+- 🔭 I’m currently working on a [my own Website][current-project]!
 - 👯 I’m looking to collaborate with other developers, and content creators
-- 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to my Open Source projects every day from 29's of May
+- 🌱 I’m currently learning Python && JavaScript
+- 🥅 2020 Goals: Contribute to all my Projects every day from 29's of May
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UnderMorph" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UnderMorph | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UnderMorph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
