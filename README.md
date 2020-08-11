@@ -2,7 +2,7 @@
 
 ## I'm a Frontend & Python developer
 
-- 🔭 I’m currently working on a [my own Website][current-project]!
+- 🔭 I’m currently working on [my own Website][current-project]!
 - 👯 I’m looking to collaborate with other developers, and content creators
 - 🌱 I’m currently learning Python && JavaScript
 - 🥅 2020 Goals: Contribute to all my Projects every day from 29's of May
@@ -36,4 +36,4 @@
 [website]: https://github.com/Umorph
 [twitter]: https://github.com/Umorph
 [instagram]: https://github.com/Umorph
-[current-project]: http://enjoydev.pp.ua/
+[current-project]: https://umorph.github.io/fullstack-website/
