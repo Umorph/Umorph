@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladislav, aka UnerMorph!</h1>
+<h1 align="center">Hi 👋, I'm Vladislav, aka UnderMorph!</h1>
 <h3 align="center">I'm a front-end & Python developer, a bit of a motion designer and an all-weather drone builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umorph" alt="umorph" /> </p>
@@ -25,4 +25,5 @@
 
 <p align="center">
 <a href="https://codepen.io/undermorphine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="undermorphine" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/14119069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14119069" height="30" width="30" /></a>
 </p>
