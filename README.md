@@ -29,3 +29,6 @@
 <a href="https://codepen.io/undermorphine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="undermorphine" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14119069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14119069" height="30" width="30" /></a>
 </p>
+
+
+[![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
