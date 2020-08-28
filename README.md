@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladislav, aka UnderMorph!</h1>
 <h3 align="center">I'm a front-end & Python developer, a bit of a motion designer and an all-weather drone builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umorph" alt="umorph" /> </p>
+![Website](https://img.shields.io/website?down_message=onload&label=My%20website&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fumorph.com)
 
 - 🔭 I’m currently working on [My very own website](https://umorph.github.io/fullstack-website/)
 
@@ -32,3 +32,5 @@
 
 
 [![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="umorph" /> </p>
