@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislav, aka UnderMorph!</h1>
-<h3 align="center">I'm a frontend & Python developer, a bit of a motion designer and an all-weather drone builder</h3>
+<h3 align="center">I'm a Frontend && Python developer, a bit of a motion designer and an all-weather drone builder:rocket:</h3>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="umorph" /></p>
