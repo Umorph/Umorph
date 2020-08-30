@@ -58,6 +58,6 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umorph" alt="umorph" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umorph&count_private=true" alt="umorph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umorph&show_icons=true&count_private=true" alt="umorph" /></p>
