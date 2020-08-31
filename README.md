@@ -56,8 +56,6 @@
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-<hr>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umorph&count_private=true" alt="umorph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umorph&show_icons=true&count_private=true" alt="umorph" /></p>
