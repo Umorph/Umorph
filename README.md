@@ -4,15 +4,14 @@
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="umorph" /></p>
-[![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
-
-
-
-
-
 [![Website](https://img.shields.io/website?down_message=onload&label=My%20website&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fumorph.com)](https://umorph.github.io/fullstack-website/)
 [![Telegram](https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge)](https://t.me/undermorph)
 [![Gmain](https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge)](https://mailhide.io/e/HidAl)
+
+
+[![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
+
+
 
 - 🔭 I’m currently working on [My very own website](https://umorph.github.io/fullstack-website/)
 
