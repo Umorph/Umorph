@@ -4,9 +4,7 @@
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="umorph" /></p>
-<p>
-  [![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
-</p>
+[![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
 
 
 
