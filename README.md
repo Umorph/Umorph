@@ -7,26 +7,34 @@
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 
-<table>
-  <tr>
-    <td rowspan="3">
-        <p align="left>
-          [![Spotify](https://novatorem.umorph.vercel.app/api/spotify)](https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn)
-        </p>
+<table border="0">
+  <tr border="0">
+    <td rowspan="3" border="0">
+      <a href="https://open.spotify.com/user/61c363aegipnn3lsw9yml6jcn">
+        <img src="https://novatorem.umorph.vercel.app/api/spotify">
+      </a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://umorph.github.io/fullstack-website/">
+        <img src="https://img.shields.io/website?down_message=onload&label=My%20website&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fumorph.com">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <a href="https://t.me/undermorph">
+        <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+      <a href="https://mailhide.io/e/HidAl">
+        <img src="https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge">
+      </a>
+    </td>
   </tr>
 </table>
-                  
-[![Website](https://img.shields.io/website?down_message=onload&label=My%20website&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fumorph.com)](https://umorph.github.io/fullstack-website/) <br>
-[![Telegram](https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge)](https://t.me/undermorph) <br>
-[![Gmain](https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge)](https://mailhide.io/e/HidAl)
 
 
 
