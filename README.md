@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Vladislav, aka UnderMorph!</h1>
-<h3 align="center">I'm a Frontend && Python developer, a bit of a motion designer and an all-weather drone builder:rocket:</h3>
+# <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> Wake up, buttercup!
+
+### My name is Vladislav, and I'm a Frontend && Python developer, a bit of a motion designer and an all-weather drone builder:rocket:
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="umorph">
