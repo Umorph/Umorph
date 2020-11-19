@@ -86,4 +86,4 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Umorph&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umorph&layout=compact&&langs_count=10" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Umorph&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umorph&layout=compact&langs_count=10" alt="languages" height="165">
