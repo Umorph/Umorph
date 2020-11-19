@@ -36,23 +36,22 @@
   </tr>
 </table>
 
+  - 🔭 I’m currently working on [My very own website](https://umorph.github.io/fullstack-website/)
 
+  - 🌱 I’m currently learning **Python && Javascript**
 
-- 🔭 I’m currently working on [My very own website](https://umorph.github.io/fullstack-website/)
+  - 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
 
-- 🌱 I’m currently learning **Python && Javascript**
+  - 👨‍💻 All my works will soon be available on [my Website](https://umorph.github.io/fullstack-website/)
 
-- 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
+  - 🥅 2020 Goals: **Contribute to all my Projects every day from 29's of May**
 
-- 👨‍💻 All my works will soon be available on [my Website](https://umorph.github.io/fullstack-website/)
+  - ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
 
-- 🥅 2020 Goals: **Contribute to all my Projects every day from 29's of May**
-
-- ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
-
-<hr>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Umorph&margin-w=15&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Things I code with</h3>
+## Technologies & Tools
 
 <h4>Programming Languages:</h4>
 <p align="left">
@@ -84,6 +83,4 @@
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umorph&count_private=true" alt="umorph" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umorph&show_icons=true&count_private=true" alt="umorph" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Umorph&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umorph&layout=compact&theme=buefy" alt="languages" height="165">
