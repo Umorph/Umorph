@@ -14,13 +14,11 @@
     <img src="https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge">
 </p>
 
-  - 🔭 I’m currently working on [«Kord Optics» online store](https://umorph.github.io/kordOptic/)
+  - 🔭 I’m currently working on [RoasUp Creative Studio](https://creative.roasup.com/#/)
 
   - 🌱 I’m currently learning **Django && Vue.js**
 
   - 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
-
-  - 👨‍💻 All my works will soon be available on [my Website](https://umorph.github.io/fullstack-website/)
 
   - ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
 
